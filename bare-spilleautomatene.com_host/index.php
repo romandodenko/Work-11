@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="no">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:type" content="website">
+  <meta name="language" content="Norwegian">
+  <meta name="robots" content="index, follow">
+  <meta property="og:locale" content="no_NO">
+  <meta property="og:title" content="Perrongen Drift spilleautomater">
+  <meta property="og:site_name"
+    content="En sportsbar i Norge er et unikt sted hvor sport og underholdning kombineres for å skape en unik atmosfære for friluftsentusiaster. Her kan du nyte sendingen av de mest spennende sportsbegivenhetene, samt delta i bordhockey- og fotballkonkurranser.">
+  <meta property="og:url" content="https://bare-spilleautomatene.com/">
+  <meta property="og:image" content="https://bare-spilleautomatene.com/main.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Home">
+  <meta property="og:image:type" content="image/png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Perrongen Drift spilleautomater">
+  <meta name="twitter:description"
+    content="En sportsbar i Norge er et unikt sted hvor sport og underholdning kombineres for å skape en unik atmosfære for friluftsentusiaster. Her kan du nyte sendingen av de mest spennende sportsbegivenhetene, samt delta i bordhockey- og fotballkonkurranser.">
+  <meta name="twitter:site" content="https://bare-spilleautomatene.com/">
+  <meta name="twitter:image" content="https://bare-spilleautomatene.com/main.png">
+  <meta name="description"
+    content="En sportsbar i Norge er et unikt sted hvor sport og underholdning kombineres for å skape en unik atmosfære for friluftsentusiaster. Her kan du nyte sendingen av de mest spennende sportsbegivenhetene, samt delta i bordhockey- og fotballkonkurranser.">
+  <title>Perrongen Drift spilleautomater</title>
+  <link rel="canonical" href="https://bare-spilleautomatene.com/">
+  <link rel="icon" href="favicon.png" type="image/png">
+  <link rel="preload" href="./fonts/Teko-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="./fonts/Tektur-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="./css/main-min.css">
+  <script defer src="./js/main.js"></script>
+</head>
+
+<body>
+  <div class="page">
+    <!-- start header -->
+    <?php
+    include 'header.php';
+    ?>
+    <!-- end header -->
+    <main>
+      <!-- start hero -->
+      <section class="hero rd-upload">
+        <div class="container">
+          <h1 class="hero__title tt-52-34">
+            Sportsbar med spilleautomater
+          </h1>
+          <div class="hero__texts">
+            <p class="hero__text tx-24-18">
+              En sportsbar i Norge er et unikt sted hvor sport og underholdning kombineres for å skape en unik atmosfære
+              for friluftsentusiaster. Her kan du nyte sendingen av de mest spennende sportsbegivenhetene, samt delta i
+              bordhockey- og fotballkonkurranser.
+            </p>
+          </div>
+          <div class="hero__image">
+            <img src="." data-rd-image="./img/hero.webp" width="336" height="336" alt="Sportsbar med spilleautomater">
+          </div>
+        </div>
+      </section>
+      <!-- end hero -->
+
+      <!-- start about -->
+      <section class="about rd-upload" id="about">
+        <div class="container">
+          <h2 class="about__title tt-42-30">
+            Om oss
+          </h2>
+          <div class="about__texts">
+            <p class="about__text tx-16-14">
+              Våre sendinger av sportskamper gir deg muligheten til å føle adrenalinet og følelsesmessig spenning i
+              sanntid, enten det er fotball, hockey, basketball eller en hvilken som helst annen populær sportsdisiplin.
+              Våre store skjermer og overlegen lydutstyr lar deg fordype deg i atmosfæren til kampen og nyte hvert
+              øyeblikk av spillet.
+            </p>
+            <p class="about__text tx-16-14">
+              I vår sportsbar finner du også bordhockey og fotball. Disse spillene gir en mulighet til å lade opp
+              batteriene og konkurrere med venner og kolleger. Det spiller ingen rolle om du er en erfaren spiller eller
+              nybegynner, vi har alt nødvendig utstyr og en koselig atmosfære for at du skal kunne nyte spillet.
+            </p>
+          </div>
+          <div class="about__image">
+            <img src="." data-rd-image="./img/about-1.webp" width="336" height="336" alt="Om oss">
+          </div>
+          <div class="about__texts">
+            <p class="about__text tx-16-14">
+              Det er viktig å merke seg at sportsbaren vår er helt lovlig og høyt rangert. Vi følger strengt alle lover
+              og forskrifter for å sikre sikkerheten og komforten til våre gjester. I tillegg er våre ansatte klare til
+              å tilby deg service av høy kvalitet og oppmerksomhet til dine behov.
+            </p>
+            <p class="about__text tx-16-14">
+              Så hvis du ønsker å nyte live sportskamper, tilbringe tid med venner som spiller bordhockey eller fotball,
+              eller organisere andre arrangementer eller konferanser, er en sportsbar i Norge det ideelle stedet for
+              dette. Besøk oss og se selv!
+            </p>
+          </div>
+          <div class="about__image">
+            <img src="." data-rd-image="./img/about-2.webp" width="336" height="336" alt="Om oss">
+          </div>
+        </div>
+      </section>
+      <!-- end about -->
+
+      <!-- start arrangementer -->
+      <section class="arrangementer rd-upload" id="arrangementer">
+        <div class="arrangementer__container container">
+          <div class="arrangementer__left">
+            <h2 class="arrangementer__title tt-42-30">
+              Arrangementer
+            </h2>
+            <div class="arrangementer__texts">
+              <p class="arrangementer__text tx-24-18">
+                I tillegg tilbyr vi andre arrangementer og tjenester for å sikre at vår etablering setter et levende
+                preg på minnet ditt. Du kan leie vår sal for ulike arrangementer, konferanser eller bedriftsmøter. Vi
+                er
+                klare til å tilby deg et komplett spekter av tjenester, som catering, utleie av lyd- og videoutstyr,
+                samt organisering av underholdningsprogrammer.
+              </p>
+            </div>
+          </div>
+          <div class="arrangementer__image">
+            <img src="." data-rd-image="./img/mer.webp" width="336" height="336" alt="Arrangementer">
+          </div>
+        </div>
+      </section>
+      <!-- end arrangementer -->
+
+      <!-- start slots -->
+      <section class="arrangementer rd-upload">
+        <div class="arrangementer__container arrangementer__container_slots container">
+          <div class="arrangementer__left">
+            <h2 class="arrangementer__title arrangementer__title_slots tt-42-30">
+              Spilleautomater
+            </h2>
+            <div class="arrangementer__texts">
+              <p class="arrangementer__text arrangementer__text_slots tx-16-14">
+                På en sportsbar i Norge kan du nyte en unik gamblingopplevelse med spilleautomater. Disse
+                spilleautomatene er en helt lovlig form for underholdning og tilfører ferien din et krydret preg av
+                spenning. I sportsbaren finner du...
+              </p>
+            </div>
+            <a class="arrangementer__link but" href="plays.php">
+              Mer informasjon
+            </a>
+          </div>
+          <div class="arrangementer__image arrangementer__image_slots">
+            <img src="." data-rd-image="./img/slot-1.webp" width="336" height="336" alt="Spilleautomater">
+          </div>
+        </div>
+      </section>
+      <!-- end slots -->
+
+      <!-- start contacts -->
+      <section class="contacts rd-upload" id="contacts">
+        <div class="container">
+          <h2 class="contacts__title tt-42-30">
+            Kontakter
+          </h2>
+          <form class="form" method="POST" action="mail.php" name="form" autocomplete="off">
+            <div class="form__inputs">
+              <input class="form__input input" type="text" name="text" id="text" placeholder="Navn..." required>
+              <input class="form__input input" type="email" name="email" id="email" placeholder="E-post..." required>
+            </div>
+            <button class="form__button but" type="submit">
+              Sende
+            </button>
+          </form>
+          <address class="contacts__address">
+            <ul class="contacts__list">
+              <li class="contacts__item tx-16-14">
+                Sørkedalsveien 1, 0369 Oslo, Norway
+              </li>
+              <li class="contacts__item tx-16-14">
+                <a href="tel:+4723330900">
+                  +47 23 33 09 00
+                </a>
+              </li>
+              <li class="contacts__item tx-16-14">
+                <a href="mailto:bare-spilleautomatene@gmail.com">
+                  bare-spilleautomatene@gmail.com
+                </a>
+              </li>
+            </ul>
+          </address>
+          <div class="contacts__map">
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1999.1311593429955!2d10.711086677458013!3d59.92996576279836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416ddb2002ffad%3A0x45a54b833c71b718!2sS%C3%B8rkedalsveien%201%2C%200369%20Oslo%2C%20Norway!5e0!3m2!1sen!2sen!4v1705376220390!5m2!1sen!2sen"
+              width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
+        </div>
+      </section>
+      <!-- end contacts -->
+    </main>
+    <!-- start footer -->
+    <?php
+    include 'footer.php';
+    ?>
+    <!-- end footer -->
+  </div>
+</body>
+
+</html>

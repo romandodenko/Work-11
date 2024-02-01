@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:type" content="website">
+  <meta name="language" content="English">
+  <meta name="robots" content="index, follow"> 
+  <meta property="og:locale" content="en_EN">
+  <meta property="og:title" content="The Interlude pokies room and the best holiday with family">
+  <meta property="og:site_name"
+    content="The Interlude is a brand new hotel that opens its doors to its guests first thing. This is a hot and vibrant place of entertainment and comfort that promises to surprise its guests with the very first impression.">
+  <meta property="og:url" content="https://gamblingreviewlist.com/">
+  <meta property="og:image" content="https://gamblingreviewlist.com/main.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Home">
+  <meta property="og:image:type" content="image/png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="The Interlude pokies room and the best holiday with family">
+  <meta name="twitter:description"
+    content="The Interlude is a brand new hotel that opens its doors to its guests first thing. This is a hot and vibrant place of entertainment and comfort that promises to surprise its guests with the very first impression.">
+  <meta name="twitter:site" content="https://gamblingreviewlist.com/">
+  <meta name="twitter:image" content="https://gamblingreviewlist.com/main.png">
+  <meta name="description"
+    content="The Interlude is a brand new hotel that opens its doors to its guests first thing. This is a hot and vibrant place of entertainment and comfort that promises to surprise its guests with the very first impression.">
+  <title>The Interlude pokies room and the best holiday with family</title>
+  <link rel="canonical" href="https://gamblingreviewlist.com/">
+  <link rel="icon" href="favicon.png" type="image/png">
+  <link rel="preload" href="./fonts/Charm-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="./fonts/Dosis-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="./css/main-min.css">
+  <script defer src="./js/main.js"></script>
+</head>
+
+<body>
+  <div class="page">
+    <!-- start header -->
+    <?php
+    include 'header.php';
+    ?>
+    <!-- end header -->
+    <main>
+      <!-- start hero -->
+      <section class="hero rd-upload">
+        <video class="hero__video" src="." autoplay playsinline preload="metadata" loop muted poster="." width="100"
+          height="100" data-rd-video="./img/hero.mp4" data-rd-image="."></video>
+        <div class="hero__container container">
+          <h1 class="hero__title tt-52-34">
+            The Interlude Pokies Club
+          </h1>
+        </div>
+      </section>
+      <!-- end hero -->
+
+      <!-- start about -->
+      <section class="about rd-upload" id="about">
+        <div class="container">
+          <h2 class="about__title tt-42-30">
+            About us
+          </h2>
+          <div class="about__texts">
+            <p class="about__text tx-16-14">
+              The Interlude is a brand new hotel that opens its doors to its guests first thing. This is a hot and
+              vibrant place of entertainment and comfort that promises to surprise its guests with the very first
+              impression.
+            </p>
+            <p class="about__text tx-16-14">
+              From the moment you arrive at The Interlude you will feel an atmosphere of newness and exclusivity.
+              Superbly designed rooms combine modern style and elegance, creating a special atmosphere of comfort. Every
+              detail of the room has been thought out to the smallest detail to provide you with unsurpassed comfort and
+              pleasure.
+            </p>
+            <p class="about__text tx-16-14">
+              New technologies and innovative solutions are also an integral part of The Interlude. The hotel is
+              equipped with the most advanced security systems and amenities. In the room you will find everything you
+              need for a comfortable stay, including fast Wi-Fi, modern appliances and an interactive room management
+              system.
+            </p>
+            <p class="about__text tx-16-14">
+              The Interlude offers the hottest entertainment and opportunities for its guests. The hotel's restaurant
+              offers excellent cuisine using fresh and local ingredients. The Interlude's bars and lounges offer a wide
+              selection of cocktails and drinks to help you relax and enjoy a fun and relaxed atmosphere.
+            </p>
+            <p class="about__text tx-16-14">
+              The Interlude is a new hotel located in a picturesque corner of Australia. The rooms in this hotel are the
+              very first and offer guests comfort and coziness. The clean and spacious rooms are equipped with
+              everything you need for a pleasant stay. They are decorated in a contemporary style with Australian design
+              elements, creating an atmosphere of uniqueness and exoticism.
+            </p>
+          </div>
+          <div class="about__image">
+            <img src="." data-rd-image="./img/about.webp" width="336" height="336" alt="About us">
+          </div>
+        </div>
+      </section>
+      <!-- end about -->
+
+      <!-- start spa -->
+      <section class="spa rd-upload" id="spa">
+        <div class="spa__container container">
+          <div class="spa__left">
+            <h2 class="spa__title tt-42-30">
+              Spa
+            </h2>
+            <p class="spa__text tx-16-14">
+              The spa at The Interlude is the ideal place for relaxation and wellness. Here guests can immerse
+              themselves in an atmosphere of tranquility and privacy and enjoy a variety of treatments and massages.
+              Professional specialists will help you completely relax and relieve tension. The Interlude Spa uses only
+              the highest quality products and innovative techniques to provide guests with an unforgettable experience
+              of well-being and beauty.
+            </p>
+          </div>
+          <ul class="spa__images">
+            <li class="spa__image">
+              <img src="." data-rd-image="./img/spa-1.webp" width="336" height="336" alt="Spa">
+            </li>
+            <li class="spa__image">
+              <img src="." data-rd-image="./img/spa-2.webp" width="336" height="336" alt="Spa">
+            </li>
+          </ul>
+        </div>
+      </section>
+      <!-- end spa -->
+
+      <!-- start rest -->
+      <section class="spa rd-upload" id="rest">
+        <div class="spa__container container">
+          <div class="spa__left">
+            <h2 class="spa__title tt-42-30">
+              Restaurants
+            </h2>
+            <p class="spa__text tx-16-14">
+              The restaurant at The Interlude perfectly combines quality and creativity. Here guests can enjoy a variety
+              of Australian and international cuisine prepared with fresh ingredients. The dishes at The Interlude
+              restaurant are true gastronomic masterpieces that will amaze your taste buds with their aromas and tastes.
+              The hotel's chefs are constantly experimenting with new recipes to offer guests the hottest and most
+              innovative dishes.
+            </p>
+          </div>
+          <ul class="spa__images spa__images_rest">
+            <li class="spa__image spa__image_rest">
+              <img src="." data-rd-image="./img/rest.webp" width="336" height="336" alt="Spa">
+            </li>
+          </ul>
+        </div>
+      </section>
+      <!-- end rest -->
+
+      <!-- start slots -->
+      <section class="slots rd-upload rd-background" data-rd-image="./img/slot.webp">
+        <div class="slots__container container">
+          <div class="slots__descr">
+            <h2 class="slots__title tt-42-30">
+              Pokies room
+            </h2>
+            <div class="slots__texts">
+              <p class="slots__text tx-16-14">
+                Australia's premier pokies room, The Interlude, is the ultimate gaming and entertainment destination.
+                Here are the latest and most advanced games that provide unique experiences and exciting gameplay. The
+                Interlude prides itself on constantly updating its range, offering its visitors only the very first
+                arrivals in the world of gambling.
+              </p>
+              <p class="slots__text tx-16-14">
+                Every visitor has the opportunity to plunge into the exciting world of gambling entertainment and feel
+                the adrenaline while playing on the hottest poker machines. At The Interlude you can enjoy exciting
+                games, take part in unique promotions and gain access to exclusive bonuses, making your stay in this
+                gaming room truly memorable and profitable.
+              </p>
+              <p class="slots__text tx-16-14">
+                The Interlude gaming room also surprises its visitors with its modern design, comfortable atmosphere and
+                high level of service. Here every guest will find something special that will make them want to return
+                again and again to try their luck and enjoy the excitement to the fullest.
+              </p>
+            </div>
+            <a class="slots__link but" href="plays.php">
+              Additionally
+            </a>
+          </div>
+        </div>
+      </section>
+      <!-- end slots -->
+    </main>
+    <!-- start footer -->
+    <?php
+    include 'footer.php';
+    ?>
+    <!-- end footer -->
+  </div>
+</body>
+
+</html>
